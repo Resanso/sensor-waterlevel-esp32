@@ -1,0 +1,5 @@
+WaterLevelMonitor/secrets.h
+.pio/
+.vscode/
+build/
+.DS_Store
